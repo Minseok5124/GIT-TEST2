@@ -1,6 +1,6 @@
 # GIT-TEST2
 GIT Hub Test Repository
-## Markdown Launguage Test
+## Markdown Language Test
 ### :D
 
 개요 : Git Project, it's nice.
